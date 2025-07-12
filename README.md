@@ -1,4 +1,4 @@
-T🌟 MoodMate – Your Daily Mood Companion
+🌟 MoodMate – Your Daily Mood Companion
 
 MoodMate is a supportive and interactive mood support app UI designed to help individuals check in with their emotions and feel better through personalized suggestions, self-care activities, and calming content.
 Built during a 24-hour hackathon under the Mental Health theme, the goal of MoodMate is to create a light, friendly, and intuitive space for users to understand and uplift their mood.
